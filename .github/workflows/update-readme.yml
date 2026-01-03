@@ -1,0 +1,25 @@
+name: Update Dynamic README
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Inject Repo Name
+        run: |
+          # Use sed to replace the placeholder with the current repo name
+          sed "s|{{REPO_NAME}}|${{ github.repository }}|g" README.template.md > README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "chore: update dynamic readme links" || echo "No changes to commit"
+          git push
