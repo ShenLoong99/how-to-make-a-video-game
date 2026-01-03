@@ -56,7 +56,7 @@
 <div align="right"><a href="#readme-top">↑ Back to Top</a></div>
 
 <h2 id="file-structure">File Structure</h2>
-<pre>how-to-make-a-video-game/
+<pre>cubethon/
 ├── .git/                    # Git version control metadata
 ├── .vs/                     # Visual Studio configuration files
 ├── Assets/                  # Core game assets
@@ -112,7 +112,7 @@
     <li>The game includes 3 progressively challenging levels</li>
 </ul>
 <p>The project focuses on basic player control, obstacle avoidance, and level progression, making it ideal for learning Unity fundamentals.</p>
-<p>Watch the sample gameplay at my linkedIn post here: <a href="">Cubethon</a></p>
+<p>Watch the sample gameplay at my linkedIn post here: <a href="https://www.linkedin.com/posts/activity-7413256773786210304-Npkj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC64xbIBQ-4tMrEhn1BXRr8SmkzqiMPX0k8">Cubethon</a></p>
 
 <h3>Test Details</h3>
 <ul>
