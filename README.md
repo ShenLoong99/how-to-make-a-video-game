@@ -56,7 +56,7 @@
 <div align="right"><a href="#readme-top">↑ Back to Top</a></div>
 
 <h2 id="file-structure">File Structure</h2>
-<pre>how-to-make-a-video-game/
+<pre>cubethon/
 ├── .git/                    # Git version control metadata
 ├── .vs/                     # Visual Studio configuration files
 ├── Assets/                  # Core game assets
@@ -112,7 +112,7 @@
     <li>The game includes 3 progressively challenging levels</li>
 </ul>
 <p>The project focuses on basic player control, obstacle avoidance, and level progression, making it ideal for learning Unity fundamentals.</p>
-<p>Watch the sample gameplay at my linkedIn post here: <a href="">Cubethon</a></p>
+<p>Watch the sample gameplay at my linkedIn post here: <a href="https://www.linkedin.com/posts/activity-7413256773786210304-Npkj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC64xbIBQ-4tMrEhn1BXRr8SmkzqiMPX0k8">Cubethon</a></p>
 
 <h3>Test Details</h3>
 <ul>
@@ -181,15 +181,15 @@
 <p>This repository is intended for learning and portfolio showcase purposes only.</p>
 <div align="right"><a href="#readme-top">↑ Back to Top</a></div>
 
-[contributors-shield]: https://img.shields.io/github/contributors/ShenLoong99/how-to-make-a-video-game.svg?style=for-the-badge
-[contributors-url]: https://github.com/ShenLoong99/how-to-make-a-video-game/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ShenLoong99/how-to-make-a-video-game.svg?style=for-the-badge
-[forks-url]: https://github.com/ShenLoong99/how-to-make-a-video-game/network/members
-[stars-shield]: https://img.shields.io/github/stars/ShenLoong99/how-to-make-a-video-game.svg?style=for-the-badge
-[stars-url]: https://github.com/ShenLoong99/how-to-make-a-video-game/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ShenLoong99/how-to-make-a-video-game.svg?style=for-the-badge
-[issues-url]: https://github.com/ShenLoong99/how-to-make-a-video-game/issues
-[license-shield]: https://img.shields.io/github/license/ShenLoong99/how-to-make-a-video-game.svg?style=for-the-badge
-[license-url]: https://github.com/ShenLoong99/how-to-make-a-video-game/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ShenLoong99/Cubethon.svg?style=for-the-badge
+[contributors-url]: https://github.com/ShenLoong99/Cubethon/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ShenLoong99/Cubethon.svg?style=for-the-badge
+[forks-url]: https://github.com/ShenLoong99/Cubethon/network/members
+[stars-shield]: https://img.shields.io/github/stars/ShenLoong99/Cubethon.svg?style=for-the-badge
+[stars-url]: https://github.com/ShenLoong99/Cubethon/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ShenLoong99/Cubethon.svg?style=for-the-badge
+[issues-url]: https://github.com/ShenLoong99/Cubethon/issues
+[license-shield]: https://img.shields.io/github/license/ShenLoong99/Cubethon.svg?style=for-the-badge
+[license-url]: https://github.com/ShenLoong99/Cubethon/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/si-kai-tan
